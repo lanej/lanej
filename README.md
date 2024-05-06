@@ -29,6 +29,4 @@ Also known by my nicknames "lanejoshlane" and "Fast Lane", I'm a Platform Engine
 - **LinkedIn:** [lanejoshlane](https://www.linkedin.com/in/lanejoshlane/)
 - **Website:** [lanej.io](http://lanej.io)
 
-- 
-
 Feel free to explore my repositories and don't hesitate to reach out if you want to talk tech, discuss potential collaborations, or just say hi!
