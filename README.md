@@ -3,7 +3,7 @@
 Welcome to my GitHub page!
 
 ## About Me
-Also known by my nicknames "lanejoshlane" and "Fast Lane", I'm a Platform Engineering Director with a rich background in tech and leadership. Based in Oakland, CA, I've had an impactful journey through companies like EasyPost, Fastly, Engine Yard.  From Maine, I cut my teeth in the Boston technogoly scene at EMC, HubSpot and Brontes3d (now part of 3M). I hold a profound interest in building robust technology solutions and developing agile, effective teams.
+Also known by my nicknames "lanejoshlane" and "Fast Lane", I'm a Platform Engineering Director with a rich background in tech and leadership. Based in Oakland, CA, I've had an impactful journey through companies like EasyPost, Fastly, Engine Yard.  From Maine, I cut my teeth in the Boston technology scene at EMC, HubSpot and Brontes3D (now part of 3M). I hold a profound interest in building robust technology solutions and developing agile, effective teams.
 
 ## What I Do
 🚀 **Leadership:** Steering platform engineering at a logistics technology startup, focusing on creating scalable and efficient software architectures.
