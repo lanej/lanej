@@ -18,9 +18,6 @@ Also known by my nicknames "lanejoshlane" and "Fast Lane", I'm a Platform Engine
 
 ## Projects
 - **[dotfiles](https://github.com/lanej/dotfiles):** My configuration settings for Arch, CentOS, and Darwin. (Frequent updates, stability may vary)
-- **[cistern](https://github.com/lanej/cistern):** Ruby API client framework.  An early attempt to create an RPC-like interface for any API that encourages testability.
-- **[fog-aws](https://github.com/fog/fog-aws):** AWS module for the 'fog' Ruby gem.  I've largely stepped back from this.
-- **[zendesk2](https://github.com/lanej/zendesk2):** A Zendesk API V2 client using Cistern.
 
 ## Sponsorship
 🌟 **[neovim](https://github.com/neovim/neovim):** I am a proud sponsor of neovim, supporting the advancement of this vital open source project.
