@@ -1,6 +1,6 @@
 # Josh Lane
 
-**VP of Engineering.** I’m interested in leverage, constraints, and practical problem-solving. Tools matter, but only when they reduce friction instead of creating it. AI is useful; it isn’t magic. I spend most of my time helping teams see the whole problem and spend their energy where it actually moves the needle.
+I’m interested in leverage, constraints, and practical problem-solving. Tools matter, but only when they reduce friction instead of creating it. AI is useful; it isn’t magic. I spend most of my time helping teams see the whole problem and spend their energy where it actually moves the needle.
 
 I mostly work in Go, Rust, and whatever scripting language keeps the tooling simple and predictable.
 
